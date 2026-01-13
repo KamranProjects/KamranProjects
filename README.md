@@ -38,8 +38,14 @@ Self-taught Python developer on a mission to master AI/ML through hands-on proje
 - Data visualization
 - ML libraries (scikit-learn, TensorFlow)
 
-## 🎨 Side Skills
-I design viral-worthy thumbnails in Photoshop — because good code deserves great presentation!
+## 🎨 My Main Hustle: Thumbnail Design
+
+I'm a **professional thumbnail designer** for YouTubers — total Photoshop nerd who creates graphics that actually get clicks. 
+
+📸 [Portfolio](  https://kamran.framer.media/  ) | Currently learning Python to build tools that merge my design workflow with code.
+
+**Fun crossover:** Design thinking + programming = creating projects that look as good as they work.
+
 
 ## 📫 Let's Connect
 💬 Ask me about: Python learning resources, beginner AI projects, or thumbnail design tips
