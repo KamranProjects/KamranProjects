@@ -52,4 +52,3 @@ I'm a **professional thumbnail designer** for YouTubers — total Photoshop nerd
 
 ---
 
-*"20 weeks in, infinite weeks to go. Every loop makes me better."*
